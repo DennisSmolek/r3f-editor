@@ -1,0 +1,36 @@
+{
+  "name": "multi-select-and-edges",
+  "version": "1.0.0",
+  "description": "Drei's select and edges components",
+  "keywords": [
+    "leva",
+    "drei",
+    "select",
+    "edges"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "@react-three/drei": "8.6.1",
+    "@react-three/fiber": "8.0.0-beta-04",
+    "leva": "0.9.18",
+    "lodash-es": "4.17.21",
+    "react": "18.0.0-rc.0",
+    "react-dom": "18.0.0-rc.0",
+    "react-scripts": "5.0.0",
+    "three": "0.136.0",
+    "valtio": "1.2.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
